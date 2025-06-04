@@ -2,7 +2,7 @@
 
 This project is a base layout template using Gulp, SCSS, and Stylelint, designed to streamline the development process and maintain code quality. It provides a structured environment for web development with a focus on automation, efficient styling, and code linting.
 
-## [DEMO]([https://creonluv.github.io/air-landing_layout/](https://creonluv.github.io/bang_landing-page/))
+## [DEMO](https://creonluv.github.io/bang_landing-page/)
 
 ## Technologies used
 
@@ -22,7 +22,7 @@ To run this project locally, you will need:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/creonluv/air-landing_layout](https://github.com/creonluv/bang_landing-page)
+   git clone [https://github.com/creonluv/bang_landing-page]
    cd air-landing_layout
    ```
 
