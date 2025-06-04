@@ -33,6 +33,7 @@
   "browserslist": [
     "last 2 versions"
   ],
+  "homepage": "https://creonluv.github.io/bang_landing-page",
   "mateAcademy": {
     "projectType": "layout",
     "linters": {
